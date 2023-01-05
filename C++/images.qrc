@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/file-regular.svg</file>
+        <file>img/arrow-up-from-bracket-solid.svg</file>
+        <file>img/minus-solid.svg</file>
+        <file>img/plus-solid.svg</file>
+        <file>img/circle-info-solid.svg</file>
+        <file>img/floppy-disk-regular.svg</file>
+        <file>img/logo.png</file>
+    </qresource>
+</RCC>
